@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.ab
 git diff HEAD -- readme.txt
 aaa
+bbb
