@@ -5,3 +5,4 @@ Git tracks changes of files.ab
 git diff HEAD -- readme.txt
 aaa
 bbb
+ccc
