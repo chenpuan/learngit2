@@ -6,3 +6,4 @@ git diff HEAD -- readme.txt
 aaa
 bbb
 ccc
+this is new
