@@ -1,11 +1,2 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.ab
-git diff HEAD -- readme.txt
-aaa
-bbb
-ccc
-this is new
-how are you
-I am fine
